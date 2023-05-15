@@ -35,7 +35,7 @@
 
 
 #define include incluir
-
+#define funcion_principal main
 
 #define imprimir printf
 #define escanear scanf
