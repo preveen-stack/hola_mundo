@@ -33,6 +33,8 @@
 #define volatile  volátil
 #define while     mientras
 
+#define include incluir
+
 
 #define imprimir printf
 #define escanear scanf
