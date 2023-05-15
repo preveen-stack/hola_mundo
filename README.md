@@ -6,6 +6,18 @@ Este es un programa de ejemplo que muestra un mensaje de saludo en español.
 
 El programa imprime el mensaje "¡Hola, mundo!" en la consola.
 
+## código
+```
+// Programa de ejemplo: ¡Hola, Mundo!
+// Este programa muestra un mensaje de saludo en español.
+
+#include "palabras_clave.h"
+
+entero funcion_principal() {
+    imprimir("¡Hola, mundo!\n");
+    retornar 0;
+}
+```
 ## Instrucciones de compilación y ejecución
 
 1. Asegúrate de tener un compilador de C instalado en tu sistema.
